@@ -3,6 +3,11 @@ anlinux是一款可以让你在安卓系统上运行Linux的辅助软件
 anLinux
 
 
+官方下载地址
+
+https://f-droid.org/zh_Hans/packages/exa.lnx.a/
+
+
 https://zhuanlan.zhihu.com/p/56530788
 
 
